@@ -2,7 +2,7 @@
 
 [![Build status][travis-image]][travis-url]
 
-## Big Trip – it's an application, for planning your trip
+## Big Trip – it's an application, for planning your trip, building your own travel itinerary
 
 ![Site preview](public/img/previews/main.png)
 
