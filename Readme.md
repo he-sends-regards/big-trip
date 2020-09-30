@@ -24,12 +24,14 @@
   * **By time spent**
     ![Time spent stats preview](public/img/previews/time-stats.png)
 
-[travis-image]: https://travis-ci.com/htmlacademy-ecmascript/583693-big-trip-12.svg?branch=master
-[travis-url]: https://travis-ci.com/htmlacademy-ecmascript/583693-big-trip-12
-
 ## About development tools
 
 * Created using [MVP](https://ru.wikipedia.org/wiki/Model-View-Presenter) design pattern
 * Building by [webpack](https://webpack.js.org)
 * Connected to external [server](https://12.ecmascript.pages.academy/big-trip/
 )
+* Is inspected by [Travis-ci](https://travis-ci.org)
+* Linting by eslint with [eslint-config-htmlacademy](https://www.npmjs.com/package/eslint-config-htmlacademy)
+
+[travis-image]: https://travis-ci.com/htmlacademy-ecmascript/583693-big-trip-12.svg?branch=master
+[travis-url]: https://travis-ci.com/htmlacademy-ecmascript/583693-big-trip-12
